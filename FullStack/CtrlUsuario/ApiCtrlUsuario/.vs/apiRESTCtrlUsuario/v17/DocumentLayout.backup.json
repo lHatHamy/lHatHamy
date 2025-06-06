@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\apiRESTCtrlUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|d:\\repos\\apirestctrlusuario\\apirestctrlusuario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\models\\clsusario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\models\\clsusario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|D:\\repos\\apiRESTCtrlUsuario\\apirestctrlusuario\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37ACD297-6936-4C50-BBC5-12A95CD5F920}|apiRESTCtrlUsuario\\apiRESTCtrlUsuario.csproj|solutionrelative:apirestctrlusuario\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:42:42.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Views\\Web.config",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Views\\Web.config",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Views\\Web.config",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-25T13:41:48.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwIsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:57:06.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:29:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Global.asax.cs",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Global.asax.cs",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Global.asax.cs",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:00:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsApiStatus.cs",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Models\\clsApiStatus.cs",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Models\\clsApiStatus.cs",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Models\\clsApiStatus.cs",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Models\\clsApiStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:21:53.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUsario.cs",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Models\\clsUsario.cs",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Models\\clsUsario.cs",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Models\\clsUsario.cs",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Models\\clsUsario.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:23:07.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Web.config",
+              "RelativeDocumentMoniker": "apiRESTCtrlUsuario\\Web.config",
+              "ToolTip": "D:\\repos\\apiRESTCtrlUsuario\\apiRESTCtrlUsuario\\Web.config",
+              "RelativeToolTip": "apiRESTCtrlUsuario\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-21T13:30:28.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

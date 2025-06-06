@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\wsCtrlUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|d:\\repos\\wsctrlusuario\\wsctrlusuario\\mpprincipal.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\mpprincipal.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\formulario web2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\formulario web2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\formulario web2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\formulario web2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\formulario web1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\formulario web1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\wpacceso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\wpacceso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\formulario web1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\formulario web1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\mpprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\mpprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\wpacceso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\wpacceso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\wpacceso.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\wpacceso.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\wpupload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\wpupload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\app_themes\\principal\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\app_themes\\principal\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\wpupload.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\wpupload.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\wpupload.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\wpupload.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|D:\\repos\\wsCtrlUsuario\\wsctrlusuario\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6FAC6C9-9FE7-4C0B-9C8E-89B5DB6DE886}|wsCtrlUsuario\\wsCtrlUsuario.csproj|solutionrelative:wsctrlusuario\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\WebForm2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wsCtrlUsuario\\WebForm2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wpAcceso.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpAcceso.aspx.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\wpAcceso.aspx.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpAcceso.aspx.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\wpAcceso.aspx.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwDsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:15:12.18Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mpPrincipal.Master",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\mpPrincipal.Master",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\mpPrincipal.Master",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\mpPrincipal.Master",
+              "RelativeToolTip": "wsCtrlUsuario\\mpPrincipal.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-04T00:22:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formulario web1.aspx",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web1.aspx",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Formulario web1.aspx",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web1.aspx",
+              "RelativeToolTip": "wsCtrlUsuario\\Formulario web1.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-04T00:28:49.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formulario web1.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web1.aspx.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Formulario web1.aspx.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web1.aspx.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\Formulario web1.aspx.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:34:53.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsApiStatus.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Models\\clsApiStatus.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Models\\clsApiStatus.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Models\\clsApiStatus.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\Models\\clsApiStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:09:55.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mpPrincipal.Master.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\mpPrincipal.Master.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\mpPrincipal.Master.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\mpPrincipal.Master.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\mpPrincipal.Master.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:22:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Global.asax.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Global.asax.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Global.asax.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:32:17.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Web.config",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Web.config",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Web.config",
+              "RelativeToolTip": "wsCtrlUsuario\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T06:37:05.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "wpAcceso.aspx",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpAcceso.aspx",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\wpAcceso.aspx",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpAcceso.aspx",
+              "RelativeToolTip": "wsCtrlUsuario\\wpAcceso.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-04T00:15:03.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "wpAcceso.aspx.designer.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpAcceso.aspx.designer.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\wpAcceso.aspx.designer.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpAcceso.aspx.designer.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\wpAcceso.aspx.designer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:08:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\WebForm2.aspx",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\WebForm2.aspx",
+              "RelativeToolTip": "wsCtrlUsuario\\WebForm2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-19T07:47:56.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "principal.css",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\App_Themes\\principal\\principal.css",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\App_Themes\\principal\\principal.css",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\App_Themes\\principal\\principal.css",
+              "RelativeToolTip": "wsCtrlUsuario\\App_Themes\\principal\\principal.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-08T02:29:40.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "wpUpload.aspx",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpUpload.aspx",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\wpUpload.aspx",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpUpload.aspx",
+              "RelativeToolTip": "wsCtrlUsuario\\wpUpload.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-28T19:31:21.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulario web2.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web2.aspx.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Formulario web2.aspx.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web2.aspx.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\Formulario web2.aspx.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:59:03.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wpUpload.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpUpload.aspx.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\wpUpload.aspx.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpUpload.aspx.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\wpUpload.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:20:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "wpUpload.aspx.designer.cs",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpUpload.aspx.designer.cs",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\wpUpload.aspx.designer.cs",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\wpUpload.aspx.designer.cs",
+              "RelativeToolTip": "wsCtrlUsuario\\wpUpload.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:31:16.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formulario web2.aspx",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web2.aspx",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\Formulario web2.aspx",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\Formulario web2.aspx",
+              "RelativeToolTip": "wsCtrlUsuario\\Formulario web2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-03T13:59:01.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wsCtrlUsuario\\bootstrap\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\repos\\wsCtrlUsuario\\wsCtrlUsuario\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeToolTip": "wsCtrlUsuario\\bootstrap\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-03T14:16:56.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

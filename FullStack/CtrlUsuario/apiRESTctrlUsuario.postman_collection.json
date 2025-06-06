@@ -1,0 +1,112 @@
+{
+	"info": {
+		"_postman_id": "10bbaea1-35c7-4673-a7d3-8f7f42405ee7",
+		"name": "apiRESTctrlUsuario",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "41779735"
+	},
+	"item": [
+		{
+			"name": "Generales",
+			"item": [
+				{
+					"name": "postInsUsuario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Martin\",\r\n    \"apellidoPaterno\": \"Feria\",\r\n    \"apellidoMaterno\": \"Fernandez\",\r\n    \"usuario\": \"mferf3\",\r\n    \"contrasena\": \"mafufa34\",\r\n    \"ruta\": \"imagenes/fotos/13.jpg\",\r\n    \"tipo\": \"3\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44348/full/usuario/spinsusario",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44348",
+							"path": [
+								"full",
+								"usuario",
+								"spinsusario"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "postValidarAcceso",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"usuario\": \"mferf3\",\r\n    \"contrasena\": \"mafufa34\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44348/full/usuario/spvalidaracceso",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44348",
+							"path": [
+								"full",
+								"usuario",
+								"spvalidaracceso"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getRptUusario",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44348/full/usuario/vwrptusuario",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44348",
+							"path": [
+								"full",
+								"usuario",
+								"vwrptusuario"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getTipoUsuario",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "getRptUsuarioSearchTerm",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
