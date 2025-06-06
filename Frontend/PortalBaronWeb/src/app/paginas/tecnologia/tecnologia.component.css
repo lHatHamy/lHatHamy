@@ -1,0 +1,77 @@
+.technology-article {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.technology-article h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 10px;
+}
+
+.technology-article h2 {
+    color: #2980b9;
+    margin-top: 25px;
+}
+
+.technology-article p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.technology-article .fecha {
+    font-style: italic;
+    color: #7f8c8d;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.technology-article .destacado {
+    background-color: #f8f9fa;
+    border-left: 4px solid #3498db;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+.technology-article .imagen {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.technology-article .imagen img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.technology-article .pie-foto {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    text-align: center;
+    margin-top: 5px;
+}
+
+app-add {
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  app-header + app-add,
+  app-add + div {
+    margin-top: 20px;
+  }
+
+  .centered {
+    display: block;
+    margin: 20px auto; /* 20px arriba/abajo, auto izquierda/derecha para centrar */
+    max-width: 100%; /* Opcional: para controlar el ancho máximo */
+  }
+
+  

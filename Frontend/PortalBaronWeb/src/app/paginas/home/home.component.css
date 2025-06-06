@@ -1,0 +1,130 @@
+app-add2 {
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  app-header + app-add2,
+  app-add2 + div {
+    margin-top: 20px;
+  }
+
+  .centered {
+    display: block;
+    margin: 20px auto; /* 20px arriba/abajo, auto izquierda/derecha para centrar */
+    max-width: 100%; /* Opcional: para controlar el ancho máximo */
+  }
+
+  .navigation-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+
+.nav-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 120px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: bold;
+    background-color: #f5f5f5;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-button:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.button-icon {
+    font-size: 2.5rem;
+    margin-bottom: 8px;
+}
+
+.button-text {
+    font-size: 1.1rem;
+}
+
+/* Estilos específicos para cada botón */
+.news-button {
+    color: #d32f2f;
+    border: 2px solid #d32f2f;
+}
+
+.news-button:hover {
+    background-color: #ffebee;
+}
+
+.tech-button {
+    color: #1976d2;
+    border: 2px solid #1976d2;
+}
+
+.tech-button:hover {
+    background-color: #e3f2fd;
+}
+
+.sports-button {
+    color: #388e3c;
+    border: 2px solid #388e3c;
+}
+
+.sports-button:hover {
+    background-color: #e8f5e9;
+}
+
+/* Estilo para botón activo */
+.active {
+    position: relative;
+}
+
+.active:after {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 30px;
+    height: 4px;
+    border-radius: 2px;
+}
+
+.active.news-button:after {
+    background-color: #d32f2f;
+}
+
+.active.tech-button:after {
+    background-color: #1976d2;
+}
+
+.active.sports-button:after {
+    background-color: #388e3c;
+}
+
+/* Responsive para móviles */
+@media (max-width: 600px) {
+    .navigation-buttons {
+        gap: 10px;
+    }
+    
+    .nav-button {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .button-icon {
+        font-size: 2rem;
+    }
+    
+    .button-text {
+        font-size: 1rem;
+    }
+}

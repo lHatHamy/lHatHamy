@@ -1,0 +1,153 @@
+.esports-article {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+}
+
+.esports-article h1 {
+    color: #d62b2b;
+    text-align: center;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #d62b2b;
+}
+
+.esports-article h2 {
+    color: #2b2b2b;
+    margin-top: 25px;
+    font-size: 1.4em;
+}
+
+.esports-article .fecha {
+    font-style: italic;
+    color: #666;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.esports-article .imagen {
+    text-align: center;
+    margin: 25px 0;
+}
+
+.esports-article .imagen img {
+    max-width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border: 2px solid #d62b2b;
+}
+
+.esports-article .pie-foto {
+    font-size: 0.85em;
+    color: #666;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.player-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.player-card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-left: 3px solid #d62b2b;
+}
+
+.player-name {
+    font-weight: bold;
+    color: #d62b2b;
+}
+
+.player-role {
+    font-size: 0.8em;
+    color: #666;
+}
+
+.destacado {
+    background-color: #fff3f3;
+    border-left: 4px solid #d62b2b;
+    padding: 15px;
+    margin: 20px 0;
+    font-style: italic;
+}
+
+.achievements-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.achievements-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.achievements-list li:before {
+    content: "🏆";
+    margin-right: 10px;
+}
+
+.stats-box {
+    display: flex;
+    justify-content: space-around;
+    margin: 25px 0;
+    text-align: center;
+}
+
+.stat-item {
+    background-color: white;
+    padding: 15px 25px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stat-value {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #d62b2b;
+}
+
+.stat-label {
+    font-size: 0.9em;
+    color: #666;
+}
+
+@media (max-width: 600px) {
+    .player-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .stats-box {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+
+app-add {
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  app-header + app-add,
+  app-add + div {
+    margin-top: 20px;
+  }
+
+  .centered {
+    display: block;
+    margin: 20px auto; /* 20px arriba/abajo, auto izquierda/derecha para centrar */
+    max-width: 100%; /* Opcional: para controlar el ancho máximo */
+  }
