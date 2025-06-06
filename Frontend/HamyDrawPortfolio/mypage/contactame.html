@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="with=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./contact_syles.css">
+    <title>HamyArts Portflio</title>
+</head>
+
+<body>
+    <form action="https://formsubmit.co/48353aefc014fbfe5d80837c10c7a893" method="POST">
+        <input type="hidden" name="_next" value="http://localhost/tema1/contactame.html">
+        <div class="subscribe">
+            <h2 class="subscribe__title">Coticemos tu ilustración</h2>
+            <p class="subscribe__copy">Subscribe to keep up with fresh news and exciting updates. We promise not to spam you!</p>
+            <div class="form">
+                <input type="email" name="nombre" class="form__email" placeholder="Enter your email address" />
+                <button class="form__button">Send</button>
+            </div>
+            <div class = "form_data">
+                <textarea class="text_camp" name = "paterno" id="paterno" placeholder="¿Qué es lo que quieres que ilustre?"></textarea>
+                <p>
+                    <select name="select_area">
+                        <option>boceto</option>
+                        <option>line-art</option>
+                        <option>full color</option>
+                    </select>
+                </p>
+                <p>¿Cuentas con algún metodo de pago digital?</p>
+                <p>
+                <input type="radio" name="boton" value="1">Si, cuento con paypal o similares<br>
+                <input type="radio" name="boton" value="2">Si, cuento con banca en linea<br>
+                <input type="radio" name="boton" value="3">No, solo deposito
+                </p>
+                <p>
+                    Fecha de nacimiento: <input type="date" name="fecha" required></p>
+                <p>          
+                <p>
+                    Numero de contaxto <input type="text" name="num_contacto" maxlength="10" size="23" placeholder="XXXXXXXXXX" required>
+                <p>      
+            </div>
+            <div class="notice">
+                <input type="checkbox">
+                <span class="notice__copy">I agree to my email address being stored and uses to recieve monthly newsletter.</span>
+            </div>
+        </div>
+    </form>
+</body>

@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\ApiRESTToolTutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\models\\clsestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\models\\clsestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ApiRESTToolTutor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\models\\clsmensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\models\\clsmensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\controllers\\mensajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\controllers\\mensajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\models\\clsprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\models\\clsprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|D:\\repos\\ApiRESTToolTutor\\apiresttooltutor\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|solutionrelative:apiresttooltutor\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56A0B4-BD1B-45F6-8145-2F79B25AD6EB}|ApiRESTToolTutor\\ApiRESTToolTutor.csproj|d:\\repos\\apiresttooltutor\\apiresttooltutor\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsMensaje.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsMensaje.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Models\\clsMensaje.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsMensaje.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\Models\\clsMensaje.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:41:10.726Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsEstudiante.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsEstudiante.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Models\\clsEstudiante.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsEstudiante.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\Models\\clsEstudiante.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:42:32.419Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiRESTToolTutor",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\ApiRESTToolTutor.csproj",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\ApiRESTToolTutor.csproj",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\ApiRESTToolTutor.csproj",
+              "RelativeToolTip": "ApiRESTToolTutor\\ApiRESTToolTutor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T08:50:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estudianteController.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Controllers\\estudianteController.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Controllers\\estudianteController.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Controllers\\estudianteController.cs*",
+              "RelativeToolTip": "ApiRESTToolTutor\\Controllers\\estudianteController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwJYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T22:14:33.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profesorController.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Controllers\\profesorController.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Controllers\\profesorController.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Controllers\\profesorController.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\Controllers\\profesorController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:48:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsProfesor.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsProfesor.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Models\\clsProfesor.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsProfesor.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\Models\\clsProfesor.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:49:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsApiStatus.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsApiStatus.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Models\\clsApiStatus.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Models\\clsApiStatus.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\Models\\clsApiStatus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:38:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Web.config",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Web.config",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Web.config",
+              "RelativeToolTip": "ApiRESTToolTutor\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T01:05:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mensajeController.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Controllers\\mensajeController.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\Controllers\\mensajeController.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\Controllers\\mensajeController.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\Controllers\\mensajeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:17:41.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiRESTToolTutor\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\repos\\ApiRESTToolTutor\\ApiRESTToolTutor\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiRESTToolTutor\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:24:10.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

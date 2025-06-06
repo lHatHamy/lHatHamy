@@ -1,0 +1,55 @@
+﻿body {
+}
+
+.titulo {
+    font-family: Arial;
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
+
+.tituloContenido {
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+}
+
+.tituloContenidoBlanco {
+    font-family: Arial;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+.pie {
+    font-family: Arial;
+    font-size: medium;
+    font-weight: normal;
+    color: black;
+}
+
+.captura {
+    font-family: Arial;
+    font-size: small;
+    font-weight: normal;
+    color: black;
+}
+
+.pieNegrita {
+    font-family: Arial;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+
+.pieImg {
+    width: 20px;
+    height: 20px;
+}
+
+.circular-image {
+    border-radius: 50%;
+    width: 100px; /* Ajusta el tamaño según tus necesidades */
+    height: 100px; /* Ajusta el tamaño según tus necesidades */
+}

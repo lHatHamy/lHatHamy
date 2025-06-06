@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Skranji:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Skranji:wght@400;700&display=swap');
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Resources */
+
+
+h1{    
+  font-family: "Skranji", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+a{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
+h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+.cursor {
+  width: 40px; /* Ajusta el ancho para que quepa el texto */
+  height: 40px; /* Ajusta la altura para que quepa el texto */
+  background: white; /* Fondo blanco */
+  border-radius: 50%; /* Forma circular */
+  position: absolute;
+  transition-duration: 100ms;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px; /* Tamaño del texto */
+  color: black; /* Color del texto */
+  font-family: "Skranji"; /* Fuente del texto */
+  text-align: center;
+  border: 2px solid black; /* Borde para resaltar */
+}
+
+
+/* header */
+
+header{
+  background-color: #994E38;
+}
+
+header img {
+  width: 2.5em;
+}
+
+/*- Barra de navegación-*/
+.nav{
+    --padding-container:0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.nav__title{
+   font-weight: 300;
+}
+  
+.nav__link{
+  margin-left: auto;
+  padding: 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: max-content;
+  gap: 2em;
+}
+  
+.nav__items{
+  list-style: none;
+}
+  
+  
+.nav__links{
+  color: #fff;
+  text-decoration: none;
+}
+  
+.nav__menu{
+  margin-left: auto;
+  cursor: pointer;
+  display: none;
+}
+  
+.nav__img{
+  display: block;
+  width: 30px;
+}
+  
+  .nav__close{
+    display: var(--show, none);
+  }
+
+/*- El fokin cuerpo -*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(241, 180, 101);
+}
+
+/* Header con olas */
+
+.hero {
+  position: relative;
+  background: #f8bd71;
+  color: white;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.hero h2 {
+  position: relative;
+  font-family: "Skranji", system-ui;
+  font-style: normal;
+  z-index: 1;
+  font-size: 2.5rem;
+  margin: 0 0 10px;
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.9);
+  cursor: pointer;
+}
+
+strong{
+  font-size:200px;
+}
+
+.hero p {
+  position: relative;
+  z-index: 1;
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 1.4;
+}
+
+.hero .content{
+  text-align: center;
+}
+
+
+/* ========================= */
+
+.waves {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 270px;
+  background-color: var(--color);
+  box-shadow: inset 0 0 50px rgba(219, 152, 65, 0.5);
+  transition: 500ms;
+}
+
+.waves::before,
+.waves::after {
+  content: '';
+  position: absolute;
+  width: 300vw;
+  height: 300vw;
+  top: -65vw;
+  left: 50%;
+  transform: translate(-50%, -75%);
+}
+
+.waves::before {
+  border-radius: 44%;
+  background: rgb(151, 53, 25);
+  animation: waves 8s linear infinite;
+}
+
+.waves::after {
+  border-radius: 44%;
+  background: rgba(155, 104, 88, 0.5);
+  animation: waves 15s linear infinite;
+}
+
+/* Footer */
+
+footer{
+  text-align: center;
+  font-size: 0.8rem;
+}
+@keyframes waves {
+  0% {
+    transform: translate(-50%, -75%) rotate(0deg);
+  }
+  
+  100% {
+    transform: translate(-50%, -75%) rotate(360deg);
+  }
+}
+
+
+/* Barra de navegación */
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #333;
+}
+
+nav a{
+    color: aliceblue;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+aside{
+    flex: 70%;
+    background-color: khaki;
+}
+
+
+
+
+.gallery_content{
+  width: 90%;
+  margin: 3rem auto;
+  columns: 1;
+}
+
+.gallery_content .gallery_item{
+  width: 100%;
+  overflow: hidden;
+  border-radius: 1em;
+  margin-bottom: 1em;
+}
+
+.gallery_item a img{
+  width: 100%;
+  height: 100%;
+  display: block;
+  transition: transform .3s;
+}
+
+@media (min-width: 768px) {
+  .gallery_content{
+    columns: 2;
+  }
+
+  .hero h2{
+    font-size: 4.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .gallery_content{
+    columns: 4;
+  }
+
+  .gallery_item a img:hover{
+      transform: scale(1.2);
+  }
+
+  .hero h2{
+      font-size: 4.5rem;
+  }
+}

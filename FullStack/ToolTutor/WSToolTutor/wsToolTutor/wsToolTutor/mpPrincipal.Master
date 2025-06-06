@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mpPrincipal.master.cs" Inherits="wsToolTutor.mpPrincipal" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Principal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <style>
+    .btn-white-custom {
+        background-color: white;
+        color: #0d6efd; /* Bootstrap primary */
+        border: 1px solid #0d6efd;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .btn-white-custom:hover,
+    .btn-white-custom:focus,
+    .btn-white-custom:active,
+    .btn-white-custom.active {
+        background-color: #0d6efd;
+        color: white;
+        border-color: #0d6efd;
+    }
+</style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Header -->
+        <div class="container mt-3">
+            <div class="row bg-primary text-white p-3 rounded shadow-sm">
+                <div class="col-md-2 d-flex align-items-center justify-content-center">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/imagenes/bd1.jpg" Width="60px" Height="60px" />
+                </div>
+                <div class="col-md-10">
+                    <h4 class="mb-1">Plataforma de Comunicación - ToolTutor</h4>
+                    <div class="d-flex align-items-center">
+                        <asp:Image ID="Image5" runat="server" ImageUrl="~/imagenes/userinfo.gif" Height="20px" />
+                        <asp:Label ID="Label6" runat="server" CssClass="ms-2" Font-Size="Small" Text="Sesión activa: " ForeColor="White"></asp:Label>
+                        <asp:ImageButton ID="ImageButton4" runat="server" CssClass="ms-3 img-fluid" ImageUrl="~/imagenes/user_close.png" ToolTip="Cerrar sesión" OnClick="ImageButton4_Click" Height="16px" Width="16px" />
+                    </div>
+                </div>
+            </div>
+
+            <!-- Navbar -->
+            <div class="row bg-info text-center text-dark mt-3 py-2 rounded">
+                <div class="col">
+                    <asp:LinkButton ID="lnkDocentes" runat="server" CssClass="btn btn-white-custom btn-sm" PostBackUrl="~/Docentes.aspx">Docentes</asp:LinkButton>
+                    &nbsp;
+                    <asp:LinkButton ID="lnkConversaciones" runat="server" CssClass="btn btn-white-custom btn-sm" PostBackUrl="~/SalasChat.aspx">Conversaciones activas</asp:LinkButton>
+                </div>
+            </div>
+
+            <!-- Contenido principal -->
+            <div class="row mt-4">
+                <div class="col-12">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+            <!-- Footer -->
+            <div class="row bg-light text-center mt-4 py-3 rounded">
+                <div class="col">
+                    <asp:Label ID="Label4" runat="server" Font-Size="Small" Text="Derechos Reservados - 2024"></asp:Label>
+                    &nbsp;|&nbsp;
+                    <asp:Label ID="Label5" runat="server" Font-Bold="True" Font-Size="Small" Text="Aviso de Privacidad"></asp:Label>
+                    <br />
+                    <asp:ImageButton ID="ImageButton1" runat="server" CssClass="m-1" Width="24px" Height="24px" ImageUrl="~/imagenes/facebook.jpg" PostBackUrl="http://www.facebook.com" />
+                    <asp:ImageButton ID="ImageButton2" runat="server" CssClass="m-1" Width="34px" Height="24px" ImageUrl="~/imagenes/twitter.jpg" PostBackUrl="http://www.twitter.com" />
+                    <asp:ImageButton ID="ImageButton3" runat="server" CssClass="m-1" Width="24px" Height="24px" ImageUrl="~/imagenes/instagram.jpg" PostBackUrl="http://www.instagram.com" />
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="bootstrap/js/popper.js"></script>
+    <script src="bootstrap/js/jquery-3.5.1.min.js"></script>
+    <p>
+&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+</body>
+</html>

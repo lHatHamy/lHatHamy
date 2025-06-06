@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\wsToolTutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\salaschat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\salaschat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\models\\salachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\models\\salachat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\wpacceso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\wpacceso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\models\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\models\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|d:\\repos\\wstooltutor\\wstooltutor\\docentes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\docentes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\docentes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\docentes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\mpprincipal.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\mpprincipal.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\wpacceso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\wpacceso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\mpprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\mpprincipal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\estudiante.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\estudiante.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\estudiante.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\estudiante.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\insertarprofesor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\insertarprofesor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\insertarprofesor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\insertarprofesor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\chat.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\salaschat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\salaschat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\app_themes\\principal\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\app_themes\\principal\\principal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|D:\\repos\\wsToolTutor\\wstooltutor\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{28AACD81-AAA8-457F-8112-B911F77B900D}|wsToolTutor\\wsToolTutor.csproj|solutionrelative:wstooltutor\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Global.asax.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Global.asax.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Global.asax.cs",
+              "RelativeToolTip": "wsToolTutor\\Global.asax.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:31:41.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsApiStatus.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\clsApiStatus.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Models\\clsApiStatus.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\clsApiStatus.cs",
+              "RelativeToolTip": "wsToolTutor\\Models\\clsApiStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:11:59.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Models\\Estudiante.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\Estudiante.cs",
+              "RelativeToolTip": "wsToolTutor\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:43:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\Mensaje.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Models\\Mensaje.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\Mensaje.cs",
+              "RelativeToolTip": "wsToolTutor\\Models\\Mensaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:20:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Models\\Profesor.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\Profesor.cs",
+              "RelativeToolTip": "wsToolTutor\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:55:59.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaChat.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\SalaChat.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Models\\SalaChat.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Models\\SalaChat.cs",
+              "RelativeToolTip": "wsToolTutor\\Models\\SalaChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:01:09.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wpAcceso.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\wpAcceso.aspx.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\wpAcceso.aspx.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\wpAcceso.aspx.cs",
+              "RelativeToolTip": "wsToolTutor\\wpAcceso.aspx.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwIYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:03:19.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalasChat.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\SalasChat.aspx.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\SalasChat.aspx.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\SalasChat.aspx.cs",
+              "RelativeToolTip": "wsToolTutor\\SalasChat.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:17:45.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Docentes.aspx",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Docentes.aspx",
+              "RelativeDocumentMoniker": "wsToolTutor\\Docentes.aspx",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Docentes.aspx",
+              "RelativeToolTip": "wsToolTutor\\Docentes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T02:59:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Docentes.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Docentes.aspx.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Docentes.aspx.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Docentes.aspx.cs",
+              "RelativeToolTip": "wsToolTutor\\Docentes.aspx.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwIgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:32:03.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mpPrincipal.Master.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\mpPrincipal.Master.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\mpPrincipal.Master.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\mpPrincipal.Master.cs",
+              "RelativeToolTip": "wsToolTutor\\mpPrincipal.Master.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:16:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "wpAcceso.aspx",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\wpAcceso.aspx",
+              "RelativeDocumentMoniker": "wsToolTutor\\wpAcceso.aspx",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\wpAcceso.aspx",
+              "RelativeToolTip": "wsToolTutor\\wpAcceso.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-19T06:53:25.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mpPrincipal.Master",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\mpPrincipal.Master",
+              "RelativeDocumentMoniker": "wsToolTutor\\mpPrincipal.Master",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\mpPrincipal.Master",
+              "RelativeToolTip": "wsToolTutor\\mpPrincipal.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T01:56:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estudiante.aspx",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Estudiante.aspx",
+              "RelativeDocumentMoniker": "wsToolTutor\\Estudiante.aspx",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Estudiante.aspx",
+              "RelativeToolTip": "wsToolTutor\\Estudiante.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T05:42:18.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InsertarProfesor.aspx",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\InsertarProfesor.aspx",
+              "RelativeDocumentMoniker": "wsToolTutor\\InsertarProfesor.aspx",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\InsertarProfesor.aspx",
+              "RelativeToolTip": "wsToolTutor\\InsertarProfesor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T06:49:46.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chat.aspx",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Chat.aspx",
+              "RelativeDocumentMoniker": "wsToolTutor\\Chat.aspx",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Chat.aspx",
+              "RelativeToolTip": "wsToolTutor\\Chat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T05:52:33.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "wsToolTutor\\bootstrap\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeToolTip": "wsToolTutor\\bootstrap\\css\\bootstrap.min.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-22T07:03:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Estudiante.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Estudiante.aspx.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Estudiante.aspx.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Estudiante.aspx.cs",
+              "RelativeToolTip": "wsToolTutor\\Estudiante.aspx.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:42:58.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InsertarProfesor.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\InsertarProfesor.aspx.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\InsertarProfesor.aspx.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\InsertarProfesor.aspx.cs",
+              "RelativeToolTip": "wsToolTutor\\InsertarProfesor.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:50:42.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SalasChat.aspx",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\SalasChat.aspx",
+              "RelativeDocumentMoniker": "wsToolTutor\\SalasChat.aspx",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\SalasChat.aspx",
+              "RelativeToolTip": "wsToolTutor\\SalasChat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-21T23:13:58.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "principal.css",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\app_themes\\principal\\principal.css",
+              "RelativeDocumentMoniker": "wsToolTutor\\app_themes\\principal\\principal.css",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\app_themes\\principal\\principal.css",
+              "RelativeToolTip": "wsToolTutor\\app_themes\\principal\\principal.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T06:53:16.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chat.aspx.cs",
+              "DocumentMoniker": "D:\\repos\\wsToolTutor\\wsToolTutor\\Chat.aspx.cs",
+              "RelativeDocumentMoniker": "wsToolTutor\\Chat.aspx.cs",
+              "ToolTip": "D:\\repos\\wsToolTutor\\wsToolTutor\\Chat.aspx.cs",
+              "RelativeToolTip": "wsToolTutor\\Chat.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:56:25.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
